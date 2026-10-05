@@ -9,7 +9,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20x64-7CFF4F)
 ![UI](https://img.shields.io/badge/UI-WinUI%203-B18CFF)
 
-<img src="docs/screenshot.png" alt="claudebackup main window" width="820" />
+
 
 </div>
 
