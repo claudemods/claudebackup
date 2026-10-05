@@ -5,7 +5,7 @@
 **Clone your Windows 10/11 system into a bootable, installable ISO.**
 
 ![Version](https://img.shields.io/badge/version-beta%20v1.02-00E5FF)
-![Released](https://img.shields.io/badge/released-04%2F10%2F2026-FF4FD8)
+![Released](https://img.shields.io/badge/released-05%2F10%2F2026-FF4FD8)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20x64-7CFF4F)
 ![UI](https://img.shields.io/badge/UI-WinUI%203-B18CFF)
 
